@@ -1,0 +1,16 @@
+{
+  "name": "netflix",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1145.0",
+    "express.js": "^1.0.0",
+    "nodemon": "^2.0.16"
+  },
+  "description": ""
+}
